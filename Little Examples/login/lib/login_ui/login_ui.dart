@@ -8,9 +8,7 @@ class Login extends StatefulWidget {
 class _LoginState extends State<Login> {
 	@override
 
-	_userController() {
 
-	}
 
 	Widget build(BuildContext context) {
 		return Scaffold(
