@@ -1,0 +1,4 @@
+#Tue Dec 25 12:50:39 CST 2018
+base.0=/Users/mac/Documents/Projects/receiper-flutter/build/app/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex
